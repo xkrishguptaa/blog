@@ -1,5 +1,7 @@
 ---
 title: "What are Blue-Green Deployments?"
+seoTitle: "What are Blue-Green Deployments?"
+seoDescription: "Learn the ins and outs of Blue-Green Deployments - a revolutionary approach for deploying software. Achieve smooth transitions and minimal risks"
 datePublished: Wed Jan 31 2024 03:39:11 GMT+0000 (Coordinated Universal Time)
 cuid: cls18nit6000208l4aco46cee
 slug: what-are-blue-green-deployments
