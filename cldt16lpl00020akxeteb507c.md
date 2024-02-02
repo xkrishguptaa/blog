@@ -1,5 +1,7 @@
 ---
 title: "What is Open Source & How to contribute to it?"
+seoTitle: "The Power of Open Source: Beyond Coding"
+seoDescription: "Open source goes beyond coding. Explore its influence on your resume, skills, and network. Discover the various ways you can contribute, even as a beginner."
 datePublished: Mon Feb 06 2023 16:32:03 GMT+0000 (Coordinated Universal Time)
 cuid: cldt16lpl00020akxeteb507c
 slug: what-is-open-source
