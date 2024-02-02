@@ -1,9 +1,9 @@
 ---
 title: "Appwrite: All you need to know"
+seoDescription: "Build Faster with Appwrite: Explore seamless integration with various tech stacks. A versatile solution for Web, Flutter, Swift, Android, and more!"
 datePublished: Wed Oct 06 2021 06:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls4ubkwa000309jv4nwp0qom
 slug: appwrite-all-you-need-to-know
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706890070314/948a63a1-e58d-4109-8aaf-19befc4ae915.avif
 tags: appwrite
 
 ---
