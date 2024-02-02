@@ -1,5 +1,7 @@
 ---
 title: "The Art of CSS Positioning"
+seoTitle: "CSS Positioning Decoded: A Practical Handbook"
+seoDescription: "Navigate the quirks of CSS positioning effortlessly. Learn the art of dividing and conquering for seamless web development."
 datePublished: Sat Feb 11 2023 12:14:33 GMT+0000 (Coordinated Universal Time)
 cuid: cldzx6prv00010al28xpk6fyq
 slug: the-art-of-css-positioning
