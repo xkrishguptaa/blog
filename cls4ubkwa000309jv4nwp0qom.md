@@ -1,5 +1,6 @@
 ---
 title: "Appwrite: All you need to know"
+seoTitle: "Building Better Apps with Appwrite: A Developer's Handbook"
 seoDescription: "Build Faster with Appwrite: Explore seamless integration with various tech stacks. A versatile solution for Web, Flutter, Swift, Android, and more!"
 datePublished: Wed Oct 06 2021 06:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cls4ubkwa000309jv4nwp0qom
