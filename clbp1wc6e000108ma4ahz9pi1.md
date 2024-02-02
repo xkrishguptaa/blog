@@ -1,5 +1,7 @@
 ---
 title: "What the DNS! Guide to everything DNS"
+seoTitle: "DNS Unveiled: Your Go-To Developer Guide"
+seoDescription: "Unveil the mysteries of DNS! Explore its fundamentals, decode records, and discover why Cloudflare is your ultimate DNS ally."
 datePublished: Thu Dec 15 2022 12:21:34 GMT+0000 (Coordinated Universal Time)
 cuid: clbp1wc6e000108ma4ahz9pi1
 slug: what-the-dns-guide-to-everything-dns
